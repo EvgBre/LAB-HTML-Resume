@@ -1,3 +1,28 @@
 body{
-    background-color: maroon;
+    background-color: aliceblue;
+}
+p section {
+    display: inline-block;
+    width: 200px;
+}
+#job1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: dotted;
+    border-color: coral;
+    border-width: medium;
+}
+#job2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: ridge;
+    border-color: gold;
+    border-width: thick;
+}
+#job3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: dashed;
+    border-color: brown;
+    border-width: thin;
+}
+article h1 {
+    color: maroon;
 }
